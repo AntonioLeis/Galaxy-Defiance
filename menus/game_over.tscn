@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://dv5yqsimnkcnh"]
 
-[ext_resource type="Script" path="res://menus/game_over.gd" id="1_i88yp"]
+[ext_resource type="Script" uid="uid://cg3cm2pplrrb1" path="res://menus/game_over.gd" id="1_i88yp"]
 [ext_resource type="PackedScene" uid="uid://qbxorymo61wc" path="res://effects/space_background.tscn" id="1_jicsx"]
 [ext_resource type="Resource" uid="uid://bfkadquef4i33" path="res://game_stats.tres" id="2_b3can"]
 [ext_resource type="LabelSettings" uid="uid://lyux8pgux32t" path="res://fonts/title_label_settings.tres" id="2_hgl8r"]

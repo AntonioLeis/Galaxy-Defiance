@@ -2,8 +2,8 @@
 
 [ext_resource type="PackedScene" uid="uid://d3fdd3hdc7p1q" path="res://enemies/enemy.tscn" id="1_3w5ln"]
 [ext_resource type="Texture2D" uid="uid://dgyk6ny1xsa0x" path="res://assets/yellow_enemy.png" id="2_3vnv6"]
-[ext_resource type="Script" path="res://enemies/yellow_enemy.gd" id="2_rpmee"]
-[ext_resource type="Script" path="res://components/border_bounce_component.gd" id="4_kkqyq"]
+[ext_resource type="Script" uid="uid://cyheyta5oc338" path="res://enemies/yellow_enemy.gd" id="2_rpmee"]
+[ext_resource type="Script" uid="uid://eo8ndk2kttld" path="res://components/border_bounce_component.gd" id="4_kkqyq"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_aindh"]
 atlas = ExtResource("2_3vnv6")

@@ -1,7 +1,7 @@
 [gd_scene load_steps=7 format=3 uid="uid://bktwta6pv6xtu"]
 
 [ext_resource type="PackedScene" uid="uid://b67qjuigi4dvn" path="res://player_ship/ship.tscn" id="1_u8akh"]
-[ext_resource type="Script" path="res://world.gd" id="1_w8tcu"]
+[ext_resource type="Script" uid="uid://dbaexp216wnd1" path="res://world.gd" id="1_w8tcu"]
 [ext_resource type="Resource" uid="uid://bfkadquef4i33" path="res://game_stats.tres" id="2_6eays"]
 [ext_resource type="PackedScene" uid="uid://qbxorymo61wc" path="res://effects/space_background.tscn" id="2_r2wj6"]
 [ext_resource type="PackedScene" uid="uid://bjhmek36bubm5" path="res://enemies/enemy_generator.tscn" id="3_s2tto"]
